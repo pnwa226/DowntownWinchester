@@ -2,8 +2,7 @@
 Point Cloud Visualization using data from https://kyfromabove.ky.gov/
 
 __3D Scene Map__
-
-[downtownwinchester.pdf](https://github.com/user-attachments/files/19575625/downtownwinchester.pdf)
+![downtownwinchester](https://github.com/user-attachments/assets/4cc6af93-8fb1-475f-9c8c-03fd47987384)
 [downtownwinchester.pdf](https://github.com/user-attachments/files/19575577/downtownwinchester.pdf)
 
 __Animation of Point Cloud__
