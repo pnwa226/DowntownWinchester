@@ -5,4 +5,5 @@ __3D Scene Map__
 [downtownwinchester.pdf](https://github.com/user-attachments/files/19575577/downtownwinchester.pdf)
 
 __Animation of Point Cloud__
+* quality of video needs to be improved before publishing
 
